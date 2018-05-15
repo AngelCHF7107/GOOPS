@@ -8,7 +8,7 @@
 <script>
 import FooterGuide from './components/FooterGuide/FooterGuide.vue'
 import {reqAddress} from './api/index'
-//你好
+//你好1
 
 export default {
   mounted(){
