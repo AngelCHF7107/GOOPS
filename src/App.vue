@@ -8,8 +8,7 @@
 <script>
 import FooterGuide from './components/FooterGuide/FooterGuide.vue'
 import {reqAddress} from './api/index'
-//你好020
-
+//你好
 export default {
   mounted(){
     /*const result = await reqAddress('40.10038,116.39867')
